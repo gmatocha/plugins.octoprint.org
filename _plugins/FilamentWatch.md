@@ -17,8 +17,8 @@ tags:
 - filament
 - sensor
 
-compatibility:
-  # list of compatible versions, for example 1.2.0. If left empty no specific version requirement will be assumed
+#compatibility:
+# list of compatible versions, for example 1.2.0. If left empty no specific version requirement will be assumed
 # NO KNOWN version or os compatability requirements as of 2019/07/15
 #  octoprint:
 #  - 1.2.6
