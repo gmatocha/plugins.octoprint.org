@@ -27,7 +27,7 @@ compatibility:
 #  - nix
 
 featuredimage: /assets/img/plugins/filamentwatch/Monitor.png
-	
+
 ---
 
 
